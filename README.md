@@ -9,7 +9,7 @@
 
 ## Files
 - `whitepaper.pdf` — full paper
-- `examples/` — example contracts (testnet only); do NOT run on mainnet
+- `example code` — example contracts (testnet only); do NOT run on mainnet
 - `disclosure.md` — responsible disclosure notes
 
 ## Responsible disclosure
